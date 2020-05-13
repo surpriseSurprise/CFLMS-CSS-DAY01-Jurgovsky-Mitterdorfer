@@ -1,0 +1,33 @@
+
+.topnav ul {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  display: block;
+  width: 100%;
+  font-family: Arial;
+  background-color: #111;
+}
+
+.topnav li {
+  float: left;
+}
+
+.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 14px;
+  text-decoration: none;
+  color: #dddddd;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

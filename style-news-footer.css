@@ -1,0 +1,21 @@
+
+.footer ul {
+  height: 40px;
+  margin-top: 25px;
+  overflow: hidden;
+  background-color: #111;
+}
+
+.footer li {
+  float: left;
+}
+
+.footer li a {
+  display: block;
+  color: white;
+  text-align: left;
+  padding-top: 10px;
+  text-decoration: none;
+  font-family: Arial;
+  color: #dddddd;
+}

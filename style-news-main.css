@@ -1,0 +1,16 @@
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  top: 0;
+  display: block;
+  padding: 50px 10px;
+  font-family: Arial;
+}
+
+.summary {
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.article1 {
+	font-family: Arial;
+}
